@@ -1,0 +1,33 @@
+{
+    "description":"store content",
+    "banner": {
+        "description": "featured product banner on main shop screen",
+        "heading": [
+            "All-Natural, Clean Beauty Products"
+        ],
+        "subheading": [
+            "At Just Ingredients, we care about ingredients. We use the best ingredients we can find – organic whenever possible.\nNo weird, nasty ingredients. No fillers or toxic ingredients. And nothing fake. Ever."
+        ]
+    },
+    "about": {
+        "description": "content sections on about screen",
+        "intro": [
+            "Hi! I'm Karalynne Call"
+        ],
+        "introImage": [
+            "https://www.uber-assets.com/image/upload/v1555699210/assets/63/cdb12d-a0cd-49fa-a6c0-6184a84d99ea/original/About_us_600.jpg"
+        ],
+        "subheading": [
+            "I’m a mom of six with a passion for better health and wellness within the home. I began my health journey nearly 15 years ago as I battled severe depression, and have tried to help many others begin their own health journey. I believe that nature provides the necessary nutrition in order for people to live healthy, happy lives full of energy. My goal is to inspire others to make a change in their eating habits and daily product use."
+        ],
+        "story": [
+            "I am a Certified Nutritionist, Wellness Coach, and Mental Health Advocate. I share tips and tricks, how-to’s and why’s behind choosing better, whole, non-toxic ingredients for their families. After years of struggling to find personal care products with ingredients I was willing to use on myself and on my children, I decided to make my own! Just Ingredients deodorant and face serum launched in Fall 2019, followed by top-selling protein powder and pre-workout, with more products in the works."
+        ],
+        "outro": [
+            "Let’s Work Together"
+        ],
+        "contact": [
+            "I’m available for collaboration!"
+        ]
+    }
+}
